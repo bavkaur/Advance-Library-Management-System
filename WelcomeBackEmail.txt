@@ -1,0 +1,20 @@
+From: library Management System <library.project.prabsimar.bavleen@gmail.com>
+To: Prabsimar Singh<simarsingh1112@gmail.com>
+Subject:Alert: Someone just logged-in into your Account
+Date: Mon, 7 Nov 2016 08:45:16
+
+Hello! Prabsimar Singh,
+Alert : Someone just logged-in into your Library Management System Account.
+If it wasn't you kindly report it to the Concerned authorities.
+
+
+
+
+
+
+
+
+
+
+Note: This is an Auto-Generated mail.
+Please Don't reply Back.

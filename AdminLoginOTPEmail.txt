@@ -1,0 +1,7 @@
+From: library Management System<library.project.prabsimar.bavleen@gmail.com>
+To: Prabsimar Singh<simarsingh1112@gmail.com>
+Subject: OTP for Admin log In  
+Date: Mon, 7 Nov 2016 08:45:16
+
+Hello!, Prabsimar Singh.
+OTP: 608488
